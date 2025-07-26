@@ -1,6 +1,5 @@
-# Prism TB Makcu (Simple Triggerbot you can code off of / this is an example...) NO MOUSE MOVEMENT
-https://discord.gg/makcu
-Made by Mr. Crispy
+# Prism TB Makcu (Simple Val Triggerbot you can code off of / this is an example...) NO MOUSE MOVEMENT
+https://discord.gg/makcu Made by Mr. Crispy
 **Prism for MAKCU** is a TB, designed for low-latency hardware-based mouse control (MAKCU device). It provides advanced color detection, adjustable region-of-interest, humanizer (random delay), and a beautiful, easy-to-use GUI (which i do not take credit for).
 
 
